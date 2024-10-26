@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <!-- Botón para Cocteles -->
+    <Button
+        android:id="@+id/button_cocteles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_cocteles"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:backgroundTint="#FF9800" />
+
+    <!-- Espacio entre los botones -->
+    <Space
+        android:layout_width="16dp"
+        android:layout_height="32dp" />
+
+    <!-- Botón para Mocteles -->
+    <Button
+        android:id="@+id/button_mocteles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_mocteles"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:backgroundTint="#FF9800" />
+
+</LinearLayout>

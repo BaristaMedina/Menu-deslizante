@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menudeslizante</string>
+    <string name="button_cocteles">Cocteles</string>
+    <string name="button_mocteles">Mocteles</string>
+    <string name="cocteles_text">Cocteles</string>
+    <string name="mocteles_text">Mocteles</string>
+    <string name="regresar_menu">Regresar al Menú</string> <!-- Esta línea es importante -->
+    <string name="back_to_menu">Regresar al Menú</string> <!-- Esta es la que falta -->
+</resources>
